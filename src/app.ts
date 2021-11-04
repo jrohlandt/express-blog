@@ -1,3 +1,4 @@
+import "reflect-metadata"; // used by class-transformer
 import * as express from "express";
 import * as bodyParser from "body-parser";
 import * as mongoose from "mongoose";
